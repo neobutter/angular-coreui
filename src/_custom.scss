@@ -1,1 +1,5 @@
 // Here you can add other styles
+
+.card {
+  box-shadow: 0 1px 1px 0 rgba(var(--cui-elevation-base-color,60,75,100),.14),0 2px 1px -1px rgba(var(--cui-elevation-base-color,60,75,100),.12),0 1px 3px 0 rgba(var(--cui-elevation-base-color,60,75,100),.20);
+}
